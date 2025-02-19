@@ -4,6 +4,12 @@ body {
     margin: 0;
     padding: 0;
 }
+h2 {
+    color: red;
+}
+table{
+    color: blue
+}
 .container {
     width: 80%;
     max-width: 600px;
@@ -24,7 +30,7 @@ td {
     font-size: 18px;
 }
 a {
-    color: #007bff;
+    color: green;
     text-decoration: none;
 }
 a:hover {

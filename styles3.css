@@ -2,6 +2,13 @@
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     text-align: center;
+    color: blue;
+}
+body h1{
+    color: green;
+}
+body h2{
+    color: red;
 }
 .container {
     width: 50%;
@@ -10,6 +17,10 @@
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: blue
+}
+.container select {
+    color: blue
 }
 input, select, button {
     width: 100%;
